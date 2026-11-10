@@ -2,4 +2,5 @@
 # Arquivo de controle do projeto
 
 print("Sistema AgroGestão")
-print("Mudanças realizadas no projeto.")
+print("Atualização realizada com sucesso.")
+print("Nova versão do sistema.")
